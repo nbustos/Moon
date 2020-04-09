@@ -2,3 +2,12 @@
 
 - title: Projects
   url: https://nbustos.github.io/nbustos/projects/
+  
+ - title: About
+  url: https://nbustos.github.io/nbustos/about/
+  
+  - title: Blog
+  url: https://nbustos.github.io/nbustos/blog/
+  
+    - title: Home
+  url: https://nbustos.github.io/nbustos/home/
