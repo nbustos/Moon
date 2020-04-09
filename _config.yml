@@ -1,6 +1,6 @@
 # Site
 title:              nbustos
-bio:                'Minimal, one column jekyll theme.'
+bio:                'Velkommen.'
 description:        "Intramural Research Trainee at NIH."
 reading_time:       true
 words_per_minute:   200
@@ -8,7 +8,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                https://nbustos.github.io/Moon
 
 # Jekyll
 permalink:          /:title/
@@ -37,10 +37,10 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              nbustos.nb@gmail.com
 twitter:            @BalokNB
 facebook:           username
-github-url:         username
+github-url:         nbustos
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
