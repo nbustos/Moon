@@ -39,8 +39,8 @@ disqus_shortname:   nbustos
 #bing-verify:
 email:              nbustos.nb@gmail.com
 twitter:            BalokNB
-facebook:           username
-github-url:         https://nbustos.github.io/nbustos/
+#facebook:           username
+github-url:         nbustos
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
