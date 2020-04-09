@@ -1,24 +1,23 @@
 ---
 layout: page
-title: About the Theme
+title: About NB
 tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+date: 2020-4-9
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="https://nbustos.github.io/nbustos"><b>Moon</b></a> is the personal site of nico bustos.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Nicholas Bustos
+* B.S. Biology 
+*   Baylor 2017
+* Research Assistant
+*   University of Texas-Austin
+    Computational Memory Lab
+* Intramural Research Fellow
+*   National Institutes of Health
+    Clinical Neuroimaging Reseach Core
+
 
 ## Preview
 
