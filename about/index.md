@@ -29,7 +29,7 @@ comments: false
 
 {% capture images %}
     https://www.niaaa.nih.gov/sites/default/files/pictures/LCTS-SBEI/group%2009_2019ed.jpg
-    https://res.cloudinary.com/highereducation/image/upload/v1/BestValueSchools.com/uploads/2018/05/university-of-texas-at-austin.jpg
+    https://liberalarts.utexas.edu/_internal/images/logo-formal/departments/Psychology.png
     {% endcapture %}
 {% include gallery images=images caption="Me w/cool people" cols=2 %}
 
