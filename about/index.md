@@ -31,8 +31,9 @@ comments: false
     https://www.niaaa.nih.gov/sites/default/files/pictures/LCTS-SBEI/group%2009_2019ed.jpg
     https://seekvectorlogo.com/wp-content/uploads/2019/01/baylor-university-vector-logo.png
     https://liberalarts.utexas.edu/internal/images/logo-formal/departments/Psychology.png
+    https://legacy.lib.utexas.edu/taro/graphics/logo-baylor.png
     {% endcapture %}
-{% include gallery images=images caption="Me w/cool people" cols=2 %}
+{% include gallery images=images caption="Me" cols=2 %}
 
 
 
