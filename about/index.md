@@ -35,7 +35,7 @@ comments: false
     https://liberalarts.utexas.edu/internal/images/logo-formal/departments/Psychology.png
     https://medicine.utah.edu/internalmedicine/research/research-admin/news/2018/images/nihlogo.jpg
     {% endcapture %}
-
+{% include gallery images=images caption="aloha" cols=3 %}
 
 
 
