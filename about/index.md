@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About NB
-![alt text](nbustos/assets/img/IMG_1823.jpg "nb")
+!(nbustos/assets/img/IMG_1823.jpg "nb")
 tags: [about, Jekyll, theme, moon]
 date: 2020-4-9
 comments: false
