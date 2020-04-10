@@ -12,18 +12,18 @@ comments: false
 
 #Education
 
-* B.S. Biology 
+* B.S. Biology <br/>
          Baylor 2017
          
 #Experience
 
-* Research Assistant
-         [University of Texas-Austin
-         Computational Memory Lab](https://www.lewpealab.org/)
+* Research Assistant <br/>
+         University of Texas-Austin <br/>
+         Computational Memory Lab(https://www.lewpealab.org/)
     
-* Intramural Research Fellow
-        [National Institutes of Health
-        Clinical Neuroimaging Reseach Core](https://www.niaaa.nih.gov/clinical-neuroimaging-research-core)
+* Intramural Research Fellow <br/>
+        National Institutes of Health <br/>
+        Clinical Neuroimaging Reseach Core(https://www.niaaa.nih.gov/clinical-neuroimaging-research-core)
 
 
 ## Preview
