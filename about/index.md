@@ -6,7 +6,7 @@ date: 2020-4-9
 comments: false
 ---
     
-<center><a href="https://nbustos.github.io/nbustos"><b>Moon</b></a> is the personal site of nico bustos.</center>
+<center><a href="https://nbustos.github.io/nbustos"><b>This</b></a> is the personal site of nico bustos.</center>
 
 ## Nicholas Bustos
 
@@ -18,17 +18,17 @@ comments: false
 
 * Research Assistant
          University of Texas-Austin
-    Computational Memory Lab
+         [Computational Memory Lab](https://www.lewpealab.org/)
     
 * Intramural Research Fellow
         National Institutes of Health
-        Clinical Neuroimaging Reseach Core
+        [Clinical Neuroimaging Reseach Core](https://www.niaaa.nih.gov/clinical-neuroimaging-research-core)
 
 
 ## Preview
 
 {% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
+    https://www.niaaa.nih.gov/sites/default/files/pictures/LCTS-SBEI/group%2009_2019ed.jpg
     https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
