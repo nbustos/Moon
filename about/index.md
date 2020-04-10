@@ -1,12 +1,13 @@
 ---
 layout: page
-title: About NB
+title: About Me
+pic: ![pic](nbustos/assets/img/IMG_1823.jpg)
 tags: [about, Jekyll, theme, moon]
 date: 2020-4-9
 comments: false
 ---
     
-![pic](nbustos/assets/img/IMG_1823.jpg)
+* ![pic](nbustos/assets/img/IMG_1823.jpg)
     
 <center><a href="https://nbustos.github.io/nbustos"><b>This</b></a> is the personal site of nico bustos.</center>
 
@@ -21,11 +22,11 @@ comments: false
          
 ## Experience
 
-* Research Assistant <br/>
+* *Research Assistant* <br/>
          University of Texas-Austin <br/>
          [Computational Memory Lab](https://www.lewpealab.org/)
     
-* Intramural Research Fellow <br/>
+* *Intramural Research Fellow* <br/>
         National Institutes of Health <br/>
         [Clinical Neuroimaging Reseach Core](https://www.niaaa.nih.gov/clinical-neuroimaging-research-core)
 
