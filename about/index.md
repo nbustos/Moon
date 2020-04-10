@@ -1,11 +1,12 @@
 ---
 layout: page
 title: About NB
-!(nbustos/assets/img/IMG_1823.jpg "nb")
 tags: [about, Jekyll, theme, moon]
 date: 2020-4-9
 comments: false
 ---
+    
+![pic](nbustos/assets/img/IMG_1823.jpg)
     
 <center><a href="https://nbustos.github.io/nbustos"><b>This</b></a> is the personal site of nico bustos.</center>
 
