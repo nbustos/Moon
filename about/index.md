@@ -6,7 +6,9 @@ date: 2020-4-9
 comments: false
 ---
     
-<right><a href="https://nbustos.github.io/nbustos"><b>This</b></a> is the personal site of nico bustos.</center>
+<center><a href="https://nbustos.github.io/nbustos"><b>This</b></a> is the personal site of nico bustos.</center>
+
+
 
 # Nicholas Bustos
 
