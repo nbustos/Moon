@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About NB
-
+![alt text](nbustos/assets/img/IMG_1823.jpg "nb")
 tags: [about, Jekyll, theme, moon]
 date: 2020-4-9
 comments: false
@@ -31,7 +31,8 @@ comments: false
 
 
 {% capture images %}
-    https://www.niaaa.nih.gov/sites/default/files/pictures/LCTS-SBEI/group%2009_2019ed.jpg
+    https://www.niaaa.nih.gov/sites/default/files/pictures/LCTS-SBEI/group%2009_2019ed.jpg 
+    
     https://liberalarts.utexas.edu/internal/images/logo-formal/departments/Psychology.png
     https://medicine.utah.edu/internalmedicine/research/research-admin/news/2018/images/nihlogo.jpg
     {% endcapture %}
