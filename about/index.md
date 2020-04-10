@@ -10,20 +10,20 @@ comments: false
 
 ## Nicholas Bustos
 
-#Education
+# Education
 
 * B.S. Biology <br/>
          Baylor 2017
          
-#Experience
+# Experience
 
 * Research Assistant <br/>
          University of Texas-Austin <br/>
-         Computational Memory Lab(https://www.lewpealab.org/)
+         [Computational Memory Lab(https://www.lewpealab.org/)
     
 * Intramural Research Fellow <br/>
         National Institutes of Health <br/>
-        Clinical Neuroimaging Reseach Core(https://www.niaaa.nih.gov/clinical-neuroimaging-research-core)
+        [Clinical Neuroimaging Reseach Core(https://www.niaaa.nih.gov/clinical-neuroimaging-research-core)
 
 
 ## Preview
