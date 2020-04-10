@@ -31,7 +31,7 @@ comments: false
     https://www.niaaa.nih.gov/sites/default/files/pictures/LCTS-SBEI/group%2009_2019ed.jpg
     https://www.facebook.com/photo.php?fbid=10213827572340404&set=pob.1314125186&type=3&theater
     {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="Me w/cool people" cols=2 %}
 
 
 
