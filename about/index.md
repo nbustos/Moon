@@ -1,15 +1,15 @@
 ---
 layout: page
 title: About Me
-pic: ![pic](nbustos/assets/img/IMG_1823.jpg)
+pic: !(nbustos/assets/img/IMG_1823.jpg)
 tags: [about, Jekyll, theme, moon]
 date: 2020-4-9
 comments: false
 ---
     
-* ![pic](nbustos/assets/img/IMG_1823.jpg)
+!(nbustos/assets/img/IMG_1823.jpg)
     
-<center><a href="https://nbustos.github.io/nbustos"><b>This</b></a> is the personal site of nico bustos.</center>
+
 
 
 
@@ -34,12 +34,11 @@ comments: false
 
 {% capture images %}
     https://www.niaaa.nih.gov/sites/default/files/pictures/LCTS-SBEI/group%2009_2019ed.jpg 
-    
     https://liberalarts.utexas.edu/internal/images/logo-formal/departments/Psychology.png
     https://medicine.utah.edu/internalmedicine/research/research-admin/news/2018/images/nihlogo.jpg
     {% endcapture %}
-{% include gallery images=images caption="aloha" cols=3 %}
+{% include gallery images=images caption="aloha" cols=2 %}
 
 
 
-
+<center><a href="https://nbustos.github.io/nbustos"><b>This</b></a> is the personal site of nico bustos.</center>
