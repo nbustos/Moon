@@ -9,14 +9,20 @@ comments: false
 <center><a href="https://nbustos.github.io/nbustos"><b>Moon</b></a> is the personal site of nico bustos.</center>
 
 ## Nicholas Bustos
+
+#Education
+
 * B.S. Biology 
-*   Baylor 2017
+         Baylor 2017
+#Experience
+
 * Research Assistant
-*   University of Texas-Austin
+         University of Texas-Austin
     Computational Memory Lab
+    
 * Intramural Research Fellow
-*   National Institutes of Health
-    Clinical Neuroimaging Reseach Core
+        National Institutes of Health
+        Clinical Neuroimaging Reseach Core
 
 
 ## Preview
