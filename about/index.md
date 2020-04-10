@@ -14,29 +14,30 @@ comments: false
 
 * B.S. Biology 
          Baylor 2017
+         
 #Experience
 
 * Research Assistant
-         University of Texas-Austin
-         [Computational Memory Lab](https://www.lewpealab.org/)
+         [University of Texas-Austin
+         Computational Memory Lab](https://www.lewpealab.org/)
     
 * Intramural Research Fellow
-        National Institutes of Health
-        [Clinical Neuroimaging Reseach Core](https://www.niaaa.nih.gov/clinical-neuroimaging-research-core)
+        [National Institutes of Health
+        Clinical Neuroimaging Reseach Core](https://www.niaaa.nih.gov/clinical-neuroimaging-research-core)
 
 
 ## Preview
 
 {% capture images %}
     https://www.niaaa.nih.gov/sites/default/files/pictures/LCTS-SBEI/group%2009_2019ed.jpg
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
+    https://www.facebook.com/photo.php?fbid=10213827572340404&set=pob.1314125186&type=3&theater
+    {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
 See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
 ## Getting Started
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme) for more information.
       
 [Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
