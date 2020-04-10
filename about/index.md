@@ -19,7 +19,7 @@ comments: false
 
 * Research Assistant <br/>
          University of Texas-Austin <br/>
-         [Computational Memory Lab(https://www.lewpealab.org/)
+         [Computational Memory Lab](https://www.lewpealab.org/)
     
 * Intramural Research Fellow <br/>
         National Institutes of Health <br/>
