@@ -29,7 +29,7 @@ comments: false
 
 {% capture images %}
     https://www.niaaa.nih.gov/sites/default/files/pictures/LCTS-SBEI/group%2009_2019ed.jpg
-    https://www.facebook.com/photo.php?fbid=10213827572340404&set=pob.1314125186&type=3&theater
+    https://res.cloudinary.com/highereducation/image/upload/v1/BestValueSchools.com/uploads/2018/05/university-of-texas-at-austin.jpg
     {% endcapture %}
 {% include gallery images=images caption="Me w/cool people" cols=2 %}
 
