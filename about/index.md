@@ -9,7 +9,7 @@ comments: false
     
 <center><a href="https://nbustos.github.io/nbustos"><b>This</b></a> is the personal site of nico bustos.</center>
 
-<br/>
+
 
 # Nicholas Bustos
 
@@ -35,7 +35,7 @@ comments: false
     https://liberalarts.utexas.edu/internal/images/logo-formal/departments/Psychology.png
     https://medicine.utah.edu/internalmedicine/research/research-admin/news/2018/images/nihlogo.jpg
     {% endcapture %}
-{% include gallery images=images caption="" cols=2 %}
+
 
 
 
