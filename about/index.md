@@ -32,6 +32,7 @@ comments: false
     https://seekvectorlogo.com/wp-content/uploads/2019/01/baylor-university-vector-logo.png
     https://liberalarts.utexas.edu/internal/images/logo-formal/departments/Psychology.png
     https://legacy.lib.utexas.edu/taro/graphics/logo-baylor.png
+    https://www.baylor.edu/images/bu/bayloruniversity.svg
     {% endcapture %}
 {% include gallery images=images caption="Me" cols=2 %}
 
