@@ -29,10 +29,8 @@ comments: false
 
 {% capture images %}
     https://www.niaaa.nih.gov/sites/default/files/pictures/LCTS-SBEI/group%2009_2019ed.jpg
-    https://seekvectorlogo.com/wp-content/uploads/2019/01/baylor-university-vector-logo.png
     https://liberalarts.utexas.edu/internal/images/logo-formal/departments/Psychology.png
-    https://legacy.lib.utexas.edu/taro/graphics/logo-baylor.png
-    https://www.baylor.edu/images/bu/bayloruniversity.svg
+    https://medicine.utah.edu/internalmedicine/research/research-admin/news/2018/images/nihlogo.jpg
     {% endcapture %}
 {% include gallery images=images caption="Me" cols=2 %}
 
