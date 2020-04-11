@@ -19,11 +19,11 @@ feature: /assets/img/IMG_1823.jpg
          
 # Experience
 
-* ##*Research Assistant* <br/>
+* **Research Assistant** <br/>
          University of Texas-Austin <br/>
          [Computational Memory Lab](https://www.lewpealab.org/)
     
-* ##*Intramural Research Fellow* <br/>
+* **Intramural Research Fellow** <br/>
         National Institutes of Health <br/>
         [Clinical Neuroimaging Reseach Core](https://www.niaaa.nih.gov/clinical-neuroimaging-research-core)
 
