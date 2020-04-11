@@ -28,14 +28,13 @@ feature: /assets/img/IMG_1823.jpg
         [Clinical Neuroimaging Reseach Core](https://www.niaaa.nih.gov/clinical-neuroimaging-research-core)
 
 
+feature: /assets/img/IMG_1823.jpg
 
-{% capture images %}
-    https://www.niaaa.nih.gov/sites/default/files/pictures/LCTS-SBEI/group%2009_2019ed.jpg 
-    https://liberalarts.utexas.edu/internal/images/logo-formal/departments/Psychology.png
-    https://medicine.utah.edu/internalmedicine/research/research-admin/news/2018/images/nihlogo.jpg
-    {% endcapture %}
-{% include gallery images=images caption="NB" cols=2 %}
-
+<figure class="half">
+    <a href="/assets/img/IMG_1823.jpg"><img src="/assets/img/IMG_1823.jpg"></a>
+    <a href="/img/nihlogo.jpg"><img src="/img/nihlogo.jpg"></a>
+    <figcaption>cc.</figcaption>
+</figure>
 
 
 <a href="https://nbustos.github.io/nbustos"><b>This</b></a> is the personal site of nico bustos.
