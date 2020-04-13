@@ -14,7 +14,7 @@ comments: true
 
 # C. Elegans beta(pat-3) phenotyping through RNAi
 
-Myeongwoo Lee Lab for Developmental Genetics at Baylor working as an undergraduate research assistant to understand the specifics of overlapping pathways and cell messengers involved in distal tip cell (DTC) migration and proliferation in C. elegans. Carried out reverse and forward genetic analysis to characterize UNC-54 and other mutants and the effects of RNAi on integrins (beta-pat3) on ECM interactions. Became proficient with RNAi, immunohistochemistry, ELISA and worm handling.  This experience allowed me to connect the biochemical dots from signal transduction to animal behavior using molecular and computational tools. This research led me towards interests on innate immunity and its connection to autoimmunity and evolutionary trade-offs.
+Myeongwoo Lee Lab for Developmental Genetics at Baylor working as an undergraduate research assistant to understand the specifics of overlapping pathways and cell messengers involved in distal tip cell (DTC) migration and proliferation in C. elegans. Carried out reverse and forward genetic analysis to characterize [UNC-54](https://wormbase.org/species/c_elegans/gene/WBGene00006789#0-9f-10) and other mutants and the effects of RNAi on integrins (beta-pat3) on ECM interactions. Became proficient with RNAi, immunohistochemistry, ELISA and worm handling.  This experience allowed me to connect the biochemical dots from signal transduction to animal behavior using molecular and computational tools. This research led me towards interests on innate immunity and its connection to autoimmunity and evolutionary trade-offs.
 
 
 > "Progress in science depends on new techniques, new discoveries, and new ideas, probably in that order" -Sydney Brenner
