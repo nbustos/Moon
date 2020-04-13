@@ -35,12 +35,6 @@ Myeongwoo Lee Lab for Developmental Genetics at Baylor working as an undergradua
    * [IP3 & Integrins in Ovulation](https://www.ncbi.nlm.nih.gov/pubmed/15642374)
    * 
 
-### Unorde
-
-* Item one
-* Item two
-* Item three
-
 <!--
 ## Tables
 
