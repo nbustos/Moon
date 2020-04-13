@@ -35,7 +35,7 @@ comments: false
     https://en.wikipedia.org/wiki/University_of_Texas_at_Austin#/media/File:University_of_Texas_at_Austin_logo.svg
 	https://www.nih.gov/sites/all/themes/nih/images/nih-logo-color.png
 {% endcapture %}
-{% include gallery images=images caption="Test images" cols=3 %}
+{% include gallery images=images caption=" " cols=3 %}
 
 
 <a href="https://docs.google.com/document/d/e/2PACX-1vRYB2e2E1-JJqflJJkQca94tDk7or7diA-bUNs2_qTrNGEZqRkJUtXra8pqlIWLiUHAzZJGe-Ij6XtD/pub"><b>Here</b></a> is my CV.
