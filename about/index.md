@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About Me
-feature: /assets/img/IMG_1823.jpg
+feature: /assets/img/LosPiEnMendoza.jpg
 tags: [about, Jekyll, theme, moon]
 date: 2020-4-9
 comments: false
 ---
     
 
-feature: assets/img/IMG_1823.jpg
+
 
 
 
