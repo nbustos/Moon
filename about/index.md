@@ -32,7 +32,10 @@ comments: false
 
 {% capture images %}
 	https://upload.wikimedia.org/wikipedia/en/f/f0/Baylor_University_seal.svg
-    https://liberalarts.utexas.edu/_internal/images/logo-formal/departments/Psychology.png                                                   https://www.nih.gov/sites/all/themes/nih/images/nih-logo-color.png
+    
+ https://liberalarts.utexas.edu/_internal/images/logo-formal/departments/Psychology.png
+    
+  https://www.nih.gov/sites/all/themes/nih/images/nih-logo-color.png
 {% endcapture %}
 {% include gallery images=images caption=" " cols=3 %}
 
