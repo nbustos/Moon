@@ -28,7 +28,6 @@ comments: false
         [Clinical Neuroimaging Reseach Core](https://www.niaaa.nih.gov/clinical-neuroimaging-research-core)
 
 
-feature: /assets/img/IMG_1823.jpg
 
 <figure class="half">
     <a href="/assets/img/IMG_1823.jpg"><img src="/assets/img/IMG_1823.jpg"></a>
@@ -37,4 +36,4 @@ feature: /assets/img/IMG_1823.jpg
 </figure>
 
 
-<a href="https://nbustos.github.io/nbustos"><b>This</b></a> is the personal site of nico bustos.
+<a href="https://docs.google.com/document/d/e/2PACX-1vRYB2e2E1-JJqflJJkQca94tDk7or7diA-bUNs2_qTrNGEZqRkJUtXra8pqlIWLiUHAzZJGe-Ij6XtD/pub"><b>Here</b></a> is my CV.
