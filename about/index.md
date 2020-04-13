@@ -14,7 +14,7 @@ comments: false
 
 # Education
 
-* B.S. Biology <br/>
+* B.S. Biological Sciences <br/>
          Baylor 2017
          
 # Experience
