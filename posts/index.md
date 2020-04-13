@@ -1,7 +1,7 @@
 ---
 layout: post-list
-title: All Posts
-excerpt: "A List of Posts"
+title: Research
+excerpt: "Previous Research Experience"
 comments: false
 ---
 
