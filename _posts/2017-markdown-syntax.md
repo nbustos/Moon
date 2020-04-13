@@ -88,8 +88,8 @@ Make any link standout more when applying the `.btn` class.
 You can also use `<kbd>` tag for keyboard buttons.
 -->
 
-{% highlight html %}
+
 <kbd>W</kbd><kbd>O</kbd><kbd>R</kbd><kbd>M</kbd><kbd>S</kbd>
-{% endhighlight %}
+
 
 
