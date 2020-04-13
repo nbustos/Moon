@@ -16,7 +16,13 @@ comments: false
 
 * B.S. Biological Sciences <br/>
          Baylor 2017
-         
+{% capture images %}
+	https://upload.wikimedia.org/wikipedia/en/f/f0/Baylor_University_seal.svg
+{% endcapture %}
+{% include gallery images=images caption=" " cols=1 %}
+ 
+ 
+ 
 # Experience
 
 * **Research Assistant** <br/>
