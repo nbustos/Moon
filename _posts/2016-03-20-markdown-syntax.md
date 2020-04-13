@@ -25,13 +25,13 @@ Myeongwoo Lee Lab for Developmental Genetics at Baylor working as an undergradua
 
 
 
-1. *C. Elegans* 
+## *C. Elegans* 
    * [Wormbook](https://www.wormbook.com)
    * [RNAi intro video](https://www.youtube.com/watch?v=cK-OGB1_ELE)
    * [RNAi in C.Elegans- Conte et al 2015](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5396541/)
 
    
-2. IP3 and Lipid Signaling
+## IP3 and Lipid Signaling
    * [IP3 & Integrins in Ovulation](https://www.ncbi.nlm.nih.gov/pubmed/15642374)
    * 
 
