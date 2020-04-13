@@ -29,9 +29,9 @@ comments: false
 
 
 <figure class="third">
-	<img src="/img/logo-baylor.jpg">
+	<img src="/nbustos/asset/img/logo-baylor.jpg">
 	<img src="/img/utPsychology.png">
-	<img src="/img/nihlogo.jpg">
+	<img src="/assset/img/nihlogo.jpg">
 	<figcaption>Caption describing these three images.</figcaption>
 </figure>
 
