@@ -20,8 +20,8 @@ Myeongwoo Lee Lab for Developmental Genetics at Baylor working as an undergradua
 > "Progress in science depends on new techniques, new discoveries, and new ideas, probably in that order" -Sydney Brenner
 
 
+<kbd>W</kbd><kbd>O</kbd><kbd>R</kbd><kbd>M</kbd><kbd>S</kbd><kbd>&</kbd><kbd>S</kbd><kbd>T</kbd><kbd>U</kbd><kbd>F</kbd></kbd><kbd>F</kbd>
 
-### Worms & Stuff
 
 
 
@@ -83,7 +83,7 @@ You can also use `<kbd>` tag for keyboard buttons.
 -->
 
 
-<kbd>W</kbd><kbd>O</kbd><kbd>R</kbd><kbd>M</kbd><kbd>S</kbd>
+
 
 
 
