@@ -32,8 +32,7 @@ comments: false
 
 {% capture images %}
 	https://upload.wikimedia.org/wikipedia/en/f/f0/Baylor_University_seal.svg
-    https://en.wikipedia.org/wiki/University_of_Texas_at_Austin#/media/File:University_of_Texas_at_Austin_logo.svg
-	https://www.nih.gov/sites/all/themes/nih/images/nih-logo-color.png
+    https://en.wikipedia.org/wiki/University_of_Texas_at_Austin#/media/File:University_of_Texas_at_Austin_logo.svg                           https://www.nih.gov/sites/all/themes/nih/images/nih-logo-color.png
 {% endcapture %}
 {% include gallery images=images caption=" " cols=3 %}
 
