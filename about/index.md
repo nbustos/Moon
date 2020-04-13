@@ -28,17 +28,12 @@ comments: false
         [Clinical Neuroimaging Reseach Core](https://www.niaaa.nih.gov/clinical-neuroimaging-research-core)
 
 
-<figure class="third">
-	<img src="/nbustos/asset/img/logo-baylor.jpg">
-	<img src="/img/utPsychology.png">
-	<img src="/assset/img/nihlogo.jpg">
-	<figcaption>Caption describing these three images.</figcaption>
-</figure>
+
 
 {% capture images %}
-	http://vignette2.wikia.nocookie.net/naruto/images/9/97/Hinata.png
-	http://vignette4.wikia.nocookie.net/naruto/images/7/79/Hinata_Part_II.png
-	http://vignette1.wikia.nocookie.net/naruto/images/1/15/J%C5%ABho_S%C5%8Dshiken.png
+	https://upload.wikimedia.org/wikipedia/en/f/f0/Baylor_University_seal.svg
+    https://en.wikipedia.org/wiki/University_of_Texas_at_Austin#/media/File:University_of_Texas_at_Austin_logo.svg
+	https://www.nih.gov/sites/all/themes/nih/images/nih-logo-color.png
 {% endcapture %}
 {% include gallery images=images caption="Test images" cols=3 %}
 
