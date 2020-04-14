@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "A Post with a Video"
+feature: /asset/img/Brain_anatomical_MRI_movie.gif
 date:   2016-03-15
 excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
 tag:
@@ -12,8 +13,9 @@ comments: true
 
 # Working Memory, how does it work?
 
+"Working memory refers to the retention of information in conscious awareness when this information is not present in the environment, to its manipulation, and to its use in guiding behavior. Working memory has been implicated as a critical contributor to such essential cognitive functions and properties as language comprehension, learning, planning, reasoning, and general fluid intelligence" [Postle 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1428794/). 
 
-## TILS, & AX-CPT
+# TILS, & AX-CPT
 
 Collaborative project between  at Baylor working as an undergraduate research assistant to understand the specifics of overlapping pathways and cell messengers involved in distal tip cell (DTC) migration and proliferation in C. elegans. Carried out reverse and forward genetic analysis to characterize UNC-54 and other mutants and the effects of RNAi on integrins (beta-pat3) on ECM interactions. Became proficient with RNAi, immunohistochemistry, ELISA and worm handling.  This experience allowed me to connect the biochemical dots from signal transduction to animal behavior using molecular and computational tools. This research led me towards interests on innate immunity and its connection to autoimmunity and evolutionary trade-offs.
 
@@ -26,17 +28,75 @@ Collaborative project between  at Baylor working as an undergraduate research as
 
 
 
-### Working Memeory  
-   * [Wormbook](https://www.wormbook.com)
-   * [RNAi intro video](https://www.youtube.com/watch?v=cK-OGB1_ELE)
-   * [RNAi in C.Elegans- Conte et al 2015](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5396541/)
+## Working Memeory  
+  
+### Review & Classics
+   * [General Primer](http://www.scholarpedia.org/article/Working_memory) <br/>
+   * [WM-Fuster 1971](https://www.ncbi.nlm.nih.gov/pubmed/4998337/) <br/>
+   * [Postle & Oberauer 2020](https://postlab.psych.wisc.edu/files/5915/7893/0181/PostleAndOberauer_inpress_OUPhandbook.pdf) <br/>
+            M.J. Kahana and A.D. Wagner (Eds.) The Oxford Handbook of Human Memory. Oxford University Press (Oxford, U.K.).
+   * [Postle 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1428794/) <br/>
+             Working Memory as an Emergent Property of the Mind & Brain
+   * [Lewis-Peacock et al 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3222712/) <br/>
+            Memory can be preserved across a brief delay despite the apparent loss of sustained representations. Delay-period activity               may in fact reflect the focus of attention, rather than short-term memory.
 
    
-### IP3 and Lipid Signaling
-   * [IP3 & Integrins in Ovulation](https://www.ncbi.nlm.nih.gov/pubmed/15642374)
+### Neuroimaging and fMRI
+   * [General Primer](http://www.scholarpedia.org/article/Functional_imaging)
    * 
+### Neurofeedback
+   * [Psych Classics](http://psychclassics.yorku.ca/topic.htm)
+        An internet resource developed by Christopher D. Green York University, Toronto, Canada   
+<br/>
+
+### Neuromodulation 
+   * [Francisco Gonzalez-Lima on TILS-2017](https://www.youtube.com/watch?v=4aREesSS1kI) <br/>
+       An overview of his research on TILS 
+   * [Paolo Cassano-MGH: Photobiomodulation 2018](https://www.youtube.com/watch?v=0zhE02ZL-4o) <br/>
+      PBM in the clinic
+   * [PBM in MDD: ELATED-2](https://www.ncbi.nlm.nih.gov/pubmed/30346890) <br/>
+   
+<br/>
+
+## Video Resources
+  
+  ### Working Memory
+   * [Baddeley Explains](https://www.youtube.com/watch?v=yL2ul2bR0Ok)  <br/>
+        Dr. Baddeley describes the evolving approaches to understanding memory & how he came to develop the multicomponent approach
+   * [Attention, Memory and... Um I forget ](https://www.youtube.com/watch?v=FmVpwnYjUIA) <br/>
+        UT Brainstorms:  overview of attention and memory  of WM and implications for society by Dr. Gazzaley
+   * [On WM, Interference and Implications ](https://www.youtube.com/watch?v=FRVrvpJOztw) <br/>
+        An overview of cognitive control, attention and memory in the context of WM and implications for society by Dr. Gazzaley
+   * [E. Maguire on Memory ](https://www.youtube.com/watch?v=gdzmNwTLakg&t=22s) <br/>
+        An overview of memory in the context of WM and implications for society by Dr. Gazzaley
+   
+  ### fMRI
+   * [CBMM.MIT -fMRI Bootcamp by R. Saxe](https://cbmm.mit.edu/fmri-bootcamp) <br/>
+        R. Saxe gives an introductory high level overview of fmri principles
+   * [Alan Alda & Dr. Kanswisher introduce fMRI](https://www.youtube.com/watch?v=nvB9hAarzw4) <br/>
+        Alan made a special stop in a mock fMRI scanner to understand how it works and how scientists can glean insights.
+   * [fMRI Class by Drs. Wager & Linquist](https://www.youtube.com/watch?v=FRVrvpJOztw) <br/>
+        An wonderful overview of MRI from physics to analysis
+   * [fMRI Overview by Dr. Micheal Lipton ](https://www.youtube.com/watch?v=35gfOtjRcic) <br/>
+        Dr. Lipton is associate professor of radiology at Albert Einstein College of Medicine and associate director of its Gruss               Magnetic Resonance Research Center.
+
+<br/>        
+
+### General Psychology Resources
+   * [Psych Classics](http://psychclassics.yorku.ca/topic.htm) <br/>
+        An internet resource developed by Christopher D. Green York University, Toronto, Canada
+   * [Computational Neuroscience Overview](http://www.scholarpedia.org/article/Encyclopedia:Computational_neuroscience) <br/>
+        An online encyclopedia maintained by Scholarpedia
 
 <!--
+[Cortical Plasticity](https://www.nature.com/articles/nrn1787)
+http://www.scholarpedia.org/w/images/thumb/3/31/Baddeley2000.jpg/400px-Baddeley2000.jpg
+
+[Gerald Edelman](https://www.nobelprize.org/prizes/medicine/1972/edelman/biographical/)
+produced fundamental breakthroughs in the understanding of the antibody's chemical structure including its heavy/light chains, disulfide bonds and high variability, opening a door for further study.
+
+[Nobel Prize](https://www.nobelprize.org/)
+
 ## Tables
 
 | Header1 | Header2 | Header3 |
