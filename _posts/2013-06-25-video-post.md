@@ -3,7 +3,7 @@ layout: post
 title:  "Laser Duel: Dual Mechanims of Control under neuromodulation"
 feature: /asset/img/Brain_anatomical_MRI_movie.gif
 date:   2016-03-15
-excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
+excerpt: "Research at the University of Texas Dept. of Psychology"
 tag:
 - sample
 - post
