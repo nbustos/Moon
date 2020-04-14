@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Post with a Video"
+title:  "Laser Duel: Dual Mechanims of Control under neuromodulation"
 feature: /asset/img/Brain_anatomical_MRI_movie.gif
 date:   2016-03-15
 excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
@@ -69,6 +69,8 @@ Collaborative project between  at Baylor working as an undergraduate research as
         An overview of cognitive control, attention and memory in the context of WM and implications for society by Dr. Gazzaley
    * [E. Maguire on Memory ](https://www.youtube.com/watch?v=gdzmNwTLakg&t=22s) <br/>
         An overview of memory in the context of WM and implications for society by Dr. Gazzaley
+        
+ <br/>
    
   ### fMRI
    * [CBMM.MIT -fMRI Bootcamp by R. Saxe](https://cbmm.mit.edu/fmri-bootcamp) <br/>
