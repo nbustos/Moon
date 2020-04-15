@@ -14,15 +14,18 @@ comments: true
 # Working Memory, how does it work?
 
 "Working memory refers to the retention of information in conscious awareness when this information is not present in the environment, to its manipulation, and to its use in guiding behavior. Working memory has been implicated as a critical contributor to such essential cognitive functions and properties as language comprehension, learning, planning, reasoning, and general fluid intelligence" [Postle 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1428794/). 
+	
 
 # TILS, & AX-CPT
 
-Collaborative project between  at Baylor working as an undergraduate research assistant to understand the specifics of overlapping pathways and cell messengers involved in distal tip cell (DTC) migration and proliferation in C. elegans. Carried out reverse and forward genetic analysis to characterize UNC-54 and other mutants and the effects of RNAi on integrins (beta-pat3) on ECM interactions. Became proficient with RNAi, immunohistochemistry, ELISA and worm handling.  This experience allowed me to connect the biochemical dots from signal transduction to animal behavior using molecular and computational tools. This research led me towards interests on innate immunity and its connection to autoimmunity and evolutionary trade-offs.
+Collaborative project between the Gonzalez-Lima & Lewis-Peacock Labs searching to build off previous work in the areas of cognitive control and neurostimulation. 
 
 
-> "Progress in science depends on new techniques, new discoveries, and new ideas, probably in that order" -Sydney Brenner
+> "When an archer is shooting for nothing, he has all his skill. If he shoots for a brass buckle, he is already nervous. If he shoots for a prize of gold, he goes blind or sees two targets He is out of his mind His skill has not changed. But the prize divides him. He cares. He thinks more of winning than of shooting And the need to win drains him of power" -Zhuang Zhou
 
 
+
+<!--
 <kbd>W</kbd><kbd>O</kbd><kbd>R</kbd><kbd>M</kbd><kbd>S</kbd><kbd>&</kbd><kbd>S</kbd><kbd>T</kbd><kbd>U</kbd><kbd>F</kbd><kbd>F</kbd>
 
 
