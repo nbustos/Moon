@@ -13,4 +13,7 @@ tag:
 comments: true
 ---
 
-Stay Tuned
+[Researchgate](https://www.researchgate.net/profile/Nicholas_Bustos)
+
+
+
