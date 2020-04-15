@@ -7,7 +7,7 @@ tags: [Attention, code, highlighting]
 comments: true
 ---
 
-# Conducting independent addiction neuroimaging and psychophysiological studies and providing expertise in these areas, through collaborations and support to clinical investigators.
+# Conducting independent addiction neuroimaging and psychophysiological studies
 
 The Clinical Neuroimaging Research Core (CNIRC) lies within Building 10 of the NIH Clinical Center in Bethesda Maryland. The Core focuses investigations on the neural correlates of cognition, emotions, decision making, motivation, impulsive and compulsive behaviors, and their association with alcohol use disorder. Utilizing imaging phenotypes to establish efficacy of experimental treatments and therapies along with imaging biomarkers to determine treatment choice and predict treatment outcome and relapse.
 
@@ -27,8 +27,8 @@ The Clinical Neuroimaging Research Core (CNIRC) lies within Building 10 of the N
 
 <br/>
 
-
-## *C. Elegans*
+<!--
+## *Addiction*
 
 Aka the "elegant rod". This tiny worm has become a centerpiece model organism in biology for its ease of use, and since [Sydney Brenner](https://www.nature.com/articles/d41586-019-01192-9) began investigations on the developmental and molecular biology of the worm in the 1970s (before that he established the nonoverlapping of the triplet codon in DNA & discovered an "unstable intermediate information(mRNA) it has become a household name for biologists.
 
@@ -50,12 +50,12 @@ Research spans from [nicotine dependence](https://www.ncbi.nlm.nih.gov/pubmed/17
 {: rules="groups"}
 
 
+-->
 
 
 
 
-
-### *C. Elegans* 
+### *CNIRC Research * 
    * [Wormbook](https://www.wormbook.com)
    * [RNAi intro video](https://www.youtube.com/watch?v=cK-OGB1_ELE)
    * [RNAi in C.Elegans- Conte et al 2015](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5396541/)
@@ -65,12 +65,12 @@ Research spans from [nicotine dependence](https://www.ncbi.nlm.nih.gov/pubmed/17
 <br/>
 
    
-### ECM, Lipid Signaling, & Behavior 
-   * [IP3 & Integrins in Ovulation](https://www.ncbi.nlm.nih.gov/pubmed/15642374)
+### Anticipation 
+   * [Meta Analysis of MID task](https://www.ncbi.nlm.nih.gov/pubmed/30255220)
         *cell-ECM interactions controls ovulation via IP(3)signaling. 
-   * [ppk-1 in Ovulation](https://www.ncbi.nlm.nih.gov/pubmed/17475243)
+   * [Another one](https://www.ncbi.nlm.nih.gov/pubmed/29696725)
         *
-   *[A Cell Sensing its environment](https://www.ncbi.nlm.nih.gov/pubmed/19197329)
+   *[Love vs Money: a Coordinate based system of Reward](https://www.ncbi.nlm.nih.gov/pubmed/30807783)
         *
    *[ECM, PNN & neuronal function]( https://www.ncbi.nlm.nih.gov/pubmed/31263252/)
         *Enzymatic digestion of PNNs in the DCN improves EBC learning, but intact PNNs are necessary for memory retention
@@ -79,8 +79,7 @@ Research spans from [nicotine dependence](https://www.ncbi.nlm.nih.gov/pubmed/17
    *[ECM, PNN & neuronal function]( https://www.ncbi.nlm.nih.gov/pubmed/31263252/)
         *Enzymatic digestion of PNNs in the DCN improves EBC learning, but intact PNNs are necessary for memory retention
 
- ### Systems Biology
-    * [The Molecular and Systems Biology of Memory](https://www.ncbi.nlm.nih.gov/pubmed/24679534/)
+ 
         
     
 <!--
@@ -255,9 +254,3 @@ module Jekyll
 end
 ~~~
 
-### GitHub Gist Embed
-
-An example of a Gist embed below.
-
-{% gist mmistakes/6589546 %}
--->
