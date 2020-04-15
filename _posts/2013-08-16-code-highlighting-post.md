@@ -18,7 +18,7 @@ Maintaining a strong focus on structural and functional brain imaging working, t
 
 
 
-> "Progress in science depends on new techniques, new discoveries, and new ideas, probably in that order" -Sydney Brenner
+> "What should I do with that by which I do not become immortal?" -Maitreyee in Brihadaranyaka Upanishad
 
 <br/>
 <br/>
