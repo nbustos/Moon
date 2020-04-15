@@ -27,12 +27,13 @@ Myeongwoo Lee Lab for Developmental Genetics at Baylor working as an undergradua
 <br/>
 <br/>
 
+<!--
 
 <kbd>W</kbd><kbd>O</kbd><kbd>R</kbd><kbd>M</kbd><kbd>S</kbd><kbd>&</kbd><kbd>S</kbd><kbd>T</kbd><kbd>U</kbd><kbd>F</kbd><kbd>F</kbd>
 
 <br/>
 
-
+<!--
 ## *C. Elegans*
 
 Aka the "elegant rod". This tiny worm has become a centerpiece model organism in biology for its ease of use, and since [Sydney Brenner](https://www.nature.com/articles/d41586-019-01192-9) began investigations on the developmental and molecular biology of the worm in the 1970s (before that he established the nonoverlapping of the triplet codon in DNA & discovered an "unstable intermediate information(mRNA) it has become a household name for biologists.
@@ -41,35 +42,14 @@ Research spans from [nicotine dependence](https://www.ncbi.nlm.nih.gov/pubmed/17
 
   
 
-
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-{: rules="groups"}
-
-
-
-
-
-
-
 ### *C. Elegans* 
    * [Wormbook](https://www.wormbook.com)
    * [RNAi intro video](https://www.youtube.com/watch?v=cK-OGB1_ELE)
    * [RNAi in C.Elegans- Conte et al 2015](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5396541/)
    <br/>
    *
-   
-<br/>
 
-   
+<!--  
 ### ECM, Lipid Signaling, & Behavior 
    * [IP3 & Integrins in Ovulation](https://www.ncbi.nlm.nih.gov/pubmed/15642374)
         *cell-ECM interactions controls ovulation via IP(3)signaling. 
@@ -84,11 +64,11 @@ Research spans from [nicotine dependence](https://www.ncbi.nlm.nih.gov/pubmed/17
    *[ECM, PNN & neuronal function]( https://www.ncbi.nlm.nih.gov/pubmed/31263252/)
         *Enzymatic digestion of PNNs in the DCN improves EBC learning, but intact PNNs are necessary for memory retention
 
- ### Systems Biology
+
     * [The Molecular and Systems Biology of Memory](https://www.ncbi.nlm.nih.gov/pubmed/24679534/)
         
     
-<!--
+
 
 [First Paper on Prostaglandins in the Brain](https://www.ncbi.nlm.nih.gov/pubmed/14201168)
 
