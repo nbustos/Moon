@@ -5,11 +5,7 @@ feature: /assets/img/CrawlingCelegans.gif
 date:   2020-04-11
 excerpt: "Undergraduate Research within the lab of Dr. Myeongwoo Lee at Baylor University."
 tag:
-- markdown 
-- syntax
-- sample
-- test
-- jekyll
+- worms
 comments: true
 ---
 
