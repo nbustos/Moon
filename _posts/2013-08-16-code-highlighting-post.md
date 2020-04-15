@@ -20,15 +20,11 @@ Maintaining a strong focus on structural and functional brain imaging working, t
 
 > "What should I do with that by which I do not become immortal?" -Maitreyee in Brihadaranyaka Upanishad
 
-<br/>
-<br/>
-<br/>
+
 
 
 <!--
 <kbd>W</kbd><kbd>O</kbd><kbd>R</kbd><kbd>M</kbd><kbd>S</kbd><kbd>&</kbd><kbd>S</kbd><kbd>T</kbd><kbd>U</kbd><kbd>F</kbd><kbd>F</kbd>
-
-<br/>
 
     
 <!--
@@ -46,8 +42,8 @@ Maintaining a strong focus on structural and functional brain imaging working, t
         *Enzymatic digestion of PNNs in the DCN improves EBC learning, but intact PNNs are necessary for memory retention
    *[ECM, PNN & neuronal function]( https://www.ncbi.nlm.nih.gov/pubmed/31263252/)
         *Enzymatic digestion of PNNs in the DCN improves EBC learning, but intact PNNs are necessary for memory retention
+-->
 
- 
         
 
 
