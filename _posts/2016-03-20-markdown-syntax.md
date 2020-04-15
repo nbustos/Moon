@@ -6,7 +6,7 @@ date:   2020-04-11
 excerpt: "Undergraduate Research within the lab of Dr. Myeongwoo Lee at Baylor University."
 tag:
 - worms
-comments: true
+comments: false
 ---
 
 # C. Elegans beta(pat-3) phenotyping through RNAi
