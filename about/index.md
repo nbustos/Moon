@@ -33,7 +33,7 @@ comments: false
 <br/>
 
 {% capture images %}
-	https://upload.wikimedia.org/wikipedia/en/f/f0/Baylor_University_seal.svg
+	https://d92mrp7hetgfk.cloudfront.net/images/sites/misc/bayloru-1/standard.png?1548464087
     
  https://liberalarts.utexas.edu/_internal/images/logo-formal/departments/Psychology.png
     <br/>
