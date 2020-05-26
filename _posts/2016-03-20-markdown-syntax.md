@@ -2,7 +2,7 @@
 layout: post
 title:  "C. Elegans beta(pat-3) Integrins phenotyping through RNAi"
 feature: /assets/img/CrawlingCelegans.gif
-date:   2020-04-11
+date:   2016-10-14
 excerpt: "Undergraduate Research within the lab of Dr. Myeongwoo Lee at Baylor University."
 tag:
 - worms
