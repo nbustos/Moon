@@ -2,7 +2,7 @@
 layout: post
 title:  "Laser Duel: Dual Mechanims of Control under neuromodulation"
 feature: /asset/img/Brain_anatomical_MRI_movie.gif
-date:   2016-03-15
+date:   2018-11-15
 excerpt: "Research at the University of Texas Dept. of Psychology"
 tag:
 - Memory
