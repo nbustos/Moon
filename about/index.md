@@ -11,7 +11,7 @@ comments: false
 # Current Position:
 
 * Data Analyst @ Brain, Cognition & Development Lab <br/>
-      -focused on cognitive and clinical neuroimaging utilizing graph theoretical analyses <br/>
+      -cognitive and clinical neuroimaging utilizing graph theoretical analyses <br/>
       -building & maintaining analyses pipelines across platforms <br/>
       -handle data management & harmonization for international collaborations (ENIGMA-FITBIR-ADNI) <br/>
        
@@ -19,8 +19,9 @@ comments: false
 
 # Education
 
-* B.S. Biological Sciences <br/>
-         Baylor 2017
+* B.S. Biological Sciences          <br/>
+    - with focus on bioinformatics  <br/>
+  Baylor 2017
          
 <br/>
  
