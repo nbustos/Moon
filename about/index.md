@@ -11,8 +11,7 @@ comments: false
 # Current Position:
 
 * Data Analyst @ Brain, Cognition & Development Lab <br/>
-    
-    focused on cognitive and clinical neuroimaging utilizing graph theoretical analyses <br/>
+      -focused on cognitive and clinical neuroimaging utilizing graph theoretical analyses <br/>
       -building & maintaining analyses pipelines across platforms <br/>
       -handle data management & harmonization for international collaborations (ENIGMA-FITBIR-ADNI) <br/>
        
