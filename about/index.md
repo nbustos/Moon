@@ -21,7 +21,7 @@ comments: false
 
 * B.S. Biological Sciences          <br/>
     - with focus on bioinformatics  <br/>
-  Baylor 2017
+Baylor 2017
          
 <br/>
  
