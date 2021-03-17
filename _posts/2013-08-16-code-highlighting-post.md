@@ -23,26 +23,20 @@ Maintaining a strong focus on structural and functional brain imaging working, t
 
 
 
-<!--
 <kbd>W</kbd><kbd>O</kbd><kbd>R</kbd><kbd>M</kbd><kbd>S</kbd><kbd>&</kbd><kbd>S</kbd><kbd>T</kbd><kbd>U</kbd><kbd>F</kbd><kbd>F</kbd>
 
     
-<!--
    
 ### Anticipation 
-   * [Meta Analysis of MID task](https://www.ncbi.nlm.nih.gov/pubmed/30255220)
-        *cell-ECM interactions controls ovulation via IP(3)signaling. 
-   * [Another one](https://www.ncbi.nlm.nih.gov/pubmed/29696725)
-        *
-   *[Love vs Money: a Coordinate based system of Reward](https://www.ncbi.nlm.nih.gov/pubmed/30807783)
-        *
-   *[ECM, PNN & neuronal function]( https://www.ncbi.nlm.nih.gov/pubmed/31263252/)
-        *Enzymatic digestion of PNNs in the DCN improves EBC learning, but intact PNNs are necessary for memory retention
-   *[PNN & conditioning in mice](https://www.ncbi.nlm.nih.gov/pubmed/32152108)
-        *Enzymatic digestion of PNNs in the DCN improves EBC learning, but intact PNNs are necessary for memory retention
-   *[ECM, PNN & neuronal function]( https://www.ncbi.nlm.nih.gov/pubmed/31263252/)
-        *Enzymatic digestion of PNNs in the DCN improves EBC learning, but intact PNNs are necessary for memory retention
--->
+   * [Meta Analysis of MID task](https://www.ncbi.nlm.nih.gov/pubmed/30255220) <br/>
+       [Another one](https://www.ncbi.nlm.nih.gov/pubmed/29696725)  <br/>
+ 
+
+   * [Love vs Money: a Coordinate based system of Reward](https://www.ncbi.nlm.nih.gov/pubmed/30807783)
+       
+ 
+ <br/>
+
 
         
 
