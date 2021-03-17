@@ -19,9 +19,8 @@ comments: false
 
 # Education
 
-* Baylor 2017                       <br/>
 * B.S. Biological Sciences          <br/>
-    - with focus on bioinformatics  <br/>
+    - Baylor 2017  
     
          
 <br/>
