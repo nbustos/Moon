@@ -12,7 +12,7 @@ comments: false
 
 * Data Analyst @ Brain, Cognition & Development Lab <br/>
       -cognitive and clinical neuroimaging utilizing graph theoretical analyses <br/>
-      -building & maintaining analyses pipelines across platforms <br/>
+      -building & maintaining multimodal analyses pipelines across platforms <br/>
       -handle data management & harmonization for international collaborations (ENIGMA-FITBIR-ADNI) <br/>
        
       
