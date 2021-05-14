@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "MathJax Example"
-date:   2015-08-10
-excerpt: "MathJax Example for Moon Jekyll Theme."
+title:  "Brains n Graphs"
+date:   2020-08-10
+excerpt: "Research at the Medical University of South Carolina"
 tag:
 - markdown 
 - mathjax
