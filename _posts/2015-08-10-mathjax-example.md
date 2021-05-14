@@ -12,41 +12,28 @@ tag:
 comments: true
 ---
 
-[MathJax](http://www.mathjax.org/) is a simple way of including Tex/LaTex/MathML based mathematics in HTML webpages. To get up and running you need to include the MathJax script in the header of your github pages page, and then write some maths. For LaTex, there are two delimiters you need to know about, one for block or displayed mathematics `\[ ... \]`, and the other for inline mathematics `\( ... \)`.
+Housed in the Medical University of South Carolina within the Dept. of Neuroscience lives the Brain Cognition and Development Lab. 
+The lab is focused on implementing multimodal imaging to illuminate neural mechanisms of cognition across populations and disease states. 
 
-## Usage
+Currently the central focus of the lab is utilizing connectome predictive modeling to track the progression of brain aging in Alzheimers's Disease. 
+In collaboraion with Drs. Joseph Helpern, Jens Jensen and Andreanna Benitez we are working on combining large dimensional datasets from MRI (resting-state, task), dMRI( DTI,
+DKI, FBI), with clinical measures such as cognitive assesments (MoCA, MMSE) to better understand disease progression (from white matter deterioration indices) and to provide more accurate diagnoses of decline in mental functions (information and graph theoretic indices across regions of interest). 
 
-To enable MathJax support be sure Kramdown is your Markdown flavor of choice and MathJax is set to true in your `_config.yml` file.
 
-~~~
-markdown: kramdown
-mathjax: true
-~~~
 
-~~~
-Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block rendering: 
-\\[ \frac{1}{n^{2}} \\]
-~~~
 
-Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block rendering: 
-\\[ \frac{1}{n^{2}} \\]
+### Work in the Lab
+   * [Clinical Applications of rt-neurofeedback](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7689151/) <br/>
+   
+   * [Probing addiction and potential therapeutics](https://link.springer.com/article/10.1007%2Fs00213-020-05516-w) <br/>
 
-The only thing to look out for is the escaping of the backslash when using markdown, so the delimiters become `\\[ ... \\]` and `\\( ... \\)` for inline and block maths respectively.
-    
 
-$$
-\begin{align*}
-  & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
-  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
-  & (x_1, \ldots, x_n) \left( \begin{array}{ccc}
-      \phi(e_1, e_1) & \cdots & \phi(e_1, e_n) \\
-      \vdots & \ddots & \vdots \\
-      \phi(e_n, e_1) & \cdots & \phi(e_n, e_n)
-    \end{array} \right)
-  \left( \begin{array}{c}
-      y_1 \\
-      \vdots \\
-      y_n
-    \end{array} \right)
-\end{align*}
-$$
+
+
+### Next-gen dMRI
+   * [Review of DKI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2997680/) <br/>
+   
+   * [FBI for white matter microstructure](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6064190/) <br/>
+
+   * [PyDesigner](https://pydesigner.readthedocs.io/en/latest/) <br/>
+
