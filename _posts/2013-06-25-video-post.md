@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Laser Duel: Dual Mechanims of Control under neuromodulation"
-feature: /asset/img/Brain_anatomical_MRI_movie.gif
+feature: /asset/img/Lightsaber-better-660.jpg
 date:   2018-11-15
 excerpt: "Research at the University of Texas Dept. of Psychology"
 tag:
