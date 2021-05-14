@@ -18,14 +18,20 @@ Maintaining a strong focus on structural and functional brain imaging working, t
 
 
 
-> "What should I do with that by which I do not become immortal?" -Maitreyee in Brihadaranyaka Upanishad
 
 
 
 
-<kbd>W</kbd><kbd>O</kbd><kbd>R</kbd><kbd>M</kbd><kbd>S</kbd><kbd>&</kbd><kbd>S</kbd><kbd>T</kbd><kbd>U</kbd><kbd>F</kbd><kbd>F</kbd>
 
-    
+
+
+### Work in the Lab
+   * [Clinical Applications of rt-neurofeedback](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7689151/) <br/>
+   
+   * [Mapping Addiction](https://onlinelibrary.wiley.com/doi/full/10.1111/adb.13010) <br/>
+   
+   
+   
    
 ### Anticipation 
    * [Meta Analysis of MID task](https://www.ncbi.nlm.nih.gov/pubmed/30255220) <br/>
@@ -37,7 +43,7 @@ Maintaining a strong focus on structural and functional brain imaging working, t
  
  <br/>
 
-
+> "What should I do with that by which I do not become immortal?" -Maitreyee in Brihadaranyaka Upanishad
         
 
 
