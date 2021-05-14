@@ -8,7 +8,7 @@ comments: false
 ---
     
 
-# Current Position:
+# Currently:
 
 * Data Analyst @ Brain, Cognition & Development Lab <br/>
       -cognitive and clinical neuroimaging utilizing graph theoretical analyses <br/>
