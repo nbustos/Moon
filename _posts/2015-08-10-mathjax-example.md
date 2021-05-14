@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Brains n Graphs"
+feature: /assets/img/DKI_figure_jensen.jpg
 date:   2020-08-10
 excerpt: "Research at the Medical University of South Carolina"
 tag:
