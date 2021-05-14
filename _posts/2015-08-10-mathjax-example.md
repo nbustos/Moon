@@ -23,9 +23,7 @@ DKI, FBI), with clinical measures such as cognitive assesments (MoCA, MMSE) to b
 
 
 
-### Work in the Lab
-   * [Clinical Applications of rt-neurofeedback](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7689151/) <br/>
-   
+### Work in the Lab   
    * [Probing addiction and potential therapeutics](https://link.springer.com/article/10.1007%2Fs00213-020-05516-w) <br/>
 
 
