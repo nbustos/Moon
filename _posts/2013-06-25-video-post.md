@@ -16,7 +16,21 @@ comments: false
 
 # TILS, & AX-CPT
 
-Collaborative project between the Gonzalez-Lima & Lewis-Peacock Labs searching to build off previous work in the areas of cognitive control and neurostimulation. 
+Collaborative project between the Gonzalez-Lima & Lewis-Peacock Labs searching to build off previous work in the areas of cognitive control and neurostimulation.
+
+Using the Dual Mechanisms of Control framework [DMC](https://sites.wustl.edu/dualmechanisms/#:~:text=The%20central%20hypothesis%20of%20the,proactive%20control%20and%20reactive%20control.), we set out to probe the effects of transcranial infrared stimulation [TILS](https://www.frontiersin.org/articles/10.3389/fnins.2019.01129/full) on a short term memory using the [AX-CPT](https://www.neurobs.com/manager/content/docs/psychlab101_experiments/AX-CPT/description.html). This continuous performance task is well suited for measuring shifts in cognitive strategies that may arise from experimentally induced shifts in cue-target pairings.
+
+Gonzalez-Lima et al have shown the TILS method of photobiomodulation to rely on cerebrovascular oxygenation (through a somewhat muddy signal transduction pathway that involves photons breaching the epidermis to rejuvenate mitochondrial cytochrome c oxidase function) for its effects on cognition. Improvements in pschomotor vigilance, delayed match to sample, and Wisconsin card sorting paradigms have been found to [date](https://pubmed.ncbi.nlm.nih.gov/23200785/).
+
+
+
+
+
+
+### Work in the Lab
+   * [Cognitive Flexibility](https://www.eneuro.org/content/eneuro/6/6/ENEURO.0250-19.2019.full.pdf) <br/>
+   
+   * [Finger individuation with neurofeedback](https://www.nature.com/articles/s41598-020-80166-8) <br/>
 
 
 > "When an archer is shooting for nothing, he has all his skill. If he shoots for a brass buckle, he is already nervous. If he shoots for a prize of gold, he goes blind or sees two targets He is out of his mind His skill has not changed. But the prize divides him. He cares. He thinks more of winning than of shooting And the need to win drains him of power" -Zhuang Zhou
